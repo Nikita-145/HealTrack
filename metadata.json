@@ -1,0 +1,8 @@
+{
+  "name": "HealTrack - Modern Healthcare System",
+  "description": "A reinvented healthcare system for emergency tracking, waiting hours, and patient records. Track, Connect and Heal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
